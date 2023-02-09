@@ -1,0 +1,1 @@
+This Alexa skill does not collect or store any data from the user on top of what Amazon collects as per the Alexa privacy policy. More information about the AWS Alexa privacy policy can be found here: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
